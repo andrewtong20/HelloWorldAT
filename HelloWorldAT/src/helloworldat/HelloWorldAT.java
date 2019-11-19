@@ -15,12 +15,9 @@ public class HelloWorldAT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         
-        for (int i=1; i<11; i++)
-        {
-            System.out.println(i);
-        }
+        //LMAO everything is gone
+
     }
     
 }
