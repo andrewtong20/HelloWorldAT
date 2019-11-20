@@ -17,6 +17,8 @@ public class HelloWorldAT {
     public static void main(String[] args) {
         
         //LMAO everything is gone
+        
+        System.out.println( "hacked!" );
 
     }
     
